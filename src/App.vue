@@ -62,7 +62,7 @@ onMounted(() => {
     <section class="create-todo">
       <h3>CREATE A TODO</h3>
       <form @submit.prevent="addTodo">
-        <h4>Wha'ts on your todo list?</h4>
+        <h4>What's on your todo list?</h4>
         <input
           type="text"
           placeholder="e.g make a video"
