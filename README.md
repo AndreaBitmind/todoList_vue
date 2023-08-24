@@ -4,6 +4,7 @@ Welcome to the Vue Todo List project! This simple yet powerful application allow
 <br>
 <br>
 Visit https://todo-list-vue-am.netlify.app/ to run this application online
+
 <br>
 
 ## Table of Contents
