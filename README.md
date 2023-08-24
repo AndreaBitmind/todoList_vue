@@ -20,7 +20,7 @@ The Vue Todo List is a web application built using Vue.js that enables users to 
 
 <br>
 
-<img src="https://github.com/AndreaBitmind/todoList_vue/blob/master/todoList-vue.png?raw=true" alt="home view from tablet breakpoint" width="400"/>
+<img src="https://github.com/AndreaBitmind/todoList_vue/blob/master/todoList-vue.png?raw=true" alt="home view from tablet breakpoint" width="300"/>
 
 
 <br>
